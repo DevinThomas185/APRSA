@@ -1,0 +1,42 @@
+Colour key:
+- Yellow = Coin
+- Cyan = Treasure
+- Green = Bandages
+- Grey = Barrel
+- Black = Anchor
+- Brown = Horses
+- Orange = Rum
+- Red = Med chest
+
+Is the HUD organised enough so that it isn't an eyesore?
+Which of the following information would you also need in game?
+- Player progress bar          no, not currently, maybe later when there are alot of levels?
+- Active effects list              yes, would be very useful.
+- Speed                           could be useful to see until an animation for max speed has been added like in Terraria (if you are doing that, if not, a counter would be good)
+- Player attributes              Are there going to be multiple characters to play as with different attributes? if not, probably not in game, just as lik extra info or something
+
+Here is a list of all the items I currently plan to have in the game:
+- Coins (+1 money, 10-40 points)
+- Treasure Chest (+20 money, 50-100 points)
+- Bandages (+1 heart, 0 points)
+- Medicine Chest (Max health, 0 points)
+- Bottle o Rum (+3 health, -3 max speed for 10s, 100-200 points)
+- Horses (+5 max speed for 20s, 100-200 points)
+- Cannon (To be implemented)
+- Ship (To be implemented)
+Is this enough, or would you suggest more items to be added?           enough for now, different areas different items?	
+Are each item rewards adequate?                                               yes
+
+Here is a list of all the effects from items and obstacles:
+- Max speed up
+- Max speed down
+- Knock out
+Would you suggest any more effects?                          dazed - caracter movement is random, up can make you go left, left could go right, that sort of thing
+
+Here is a list of all the obstacles I currently plan to implement:
+- Anchor (-1 heart, 6s knock out)
+- Barrel (-1 heart, 3s knock out)
+- Crate (-1 heart, 3s knock out)
+Any more obstacles you would like added?		          A bomb- after a delay (fuse) an area around it would be destroyed
+						          A trap, stand on it and get dazed
+And are the penalties adequate?                                               Crate less knock out than barrel (2.5?), good otherwise

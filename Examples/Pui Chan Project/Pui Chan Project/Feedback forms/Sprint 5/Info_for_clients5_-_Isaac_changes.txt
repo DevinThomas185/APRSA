@@ -1,0 +1,23 @@
+There are 4 GUI objects for the menus in the game:
+-Buttons
+-Sliders
+-Tick boxes
+-Drop down menus
+Am I missing any others?
+
+The menus can be navigated by mouse or keyboard. Use the arrow keys to move a black pointer
+around the menu and press enter to activate the pointed GUI object.
+How is the keyboard menu navigation? Is it obvious at where you are pointing at in the menu?
+Is it easy to move around in the menu? Does it confuse you?
+
+keyboard navigation is good and obvious. Its easy and not confusing
+
+For sliders and drop down menus, the menu focuses on them when you select them with the enter
+key. This allows you to move the slider left or right with the left and right keys, or search
+through the options in the drop down menu using up and down keys. You then press enter again to
+"defocus" or deactivate the slider or drop down menu so you can return to moving the pointer
+around the menu again.
+How easy to use is this? How is the slider speed? Any difficulties do you feel when using them?
+
+easy to use, speed is a little slow. I will explain something when we next do projects in lesson
+Any other things you'd like to point out?

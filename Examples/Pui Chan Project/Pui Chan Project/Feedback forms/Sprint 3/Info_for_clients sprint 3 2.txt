@@ -1,0 +1,27 @@
+Colour key:
+- Yellow = Coin
+- Cyan = Treasure
+- Green = Bandages
+- Grey = Barrel
+- Black = Anchor
+- Brown = Horses
+- Orange = Rum
+- Red = Med chest
+- Reddish Brown = Crate
+
+Is the HUD organised nicely? Should it be smaller?
+I think the HUD is perfectly fine. Looks nice, and does it's job.
+
+What pirate themed enemies should you encounter?
+I would like to see some skeleton pirates or something; that sounds cool.
+
+What player attributes should be upgradeable?
+You should be able to upgrade health.
+
+What is your preferred menu input device: Keyboard or mouse?
+Keyboard.
+
+-Note
+Fix the damn resolution already. 
+http://prntscr.com/dgo8vs
+That image above shows what it looks like for me. The box indicates my center monitor (everything outside of the box, goes onto my other two monitors).

@@ -1,0 +1,96 @@
+This will be about the ease of use of the features in the game, as well as the game mechanics
+I would like you to try out all the features available in the game and review them based on these points:
+- How easy it is to use
+- How often you would use it
+- Have you spotted any bugs with it?
+- What can be improved about it?
+If it is a game mechanic you are reviewing, review based on:
+- How easy it is to use
+- How challenging is it (Is it too challenging?)
+- What can be improved about it? (Any part of it that ruins the game?)
+
+Here is a list of all the features, so you're able to keep track:
+- Gameplay features
+	- Game physics
+		- Player acceleration
+Player acceleration seems to be okay; it keeps it a speed where the wave is rendered obsolete because of the speed the player is moving at, it keeps some of the frightfullness of being caught. But maybe on harder difficutly's decrease it.
+
+		- Jumping and falling
+I like the jump height, it does not allow the player to jump across the map as you used to be able to, and some platforms you have to strategize on how to traverse onto them (AKA I like the jump height). 
+
+
+In short the physics is currently fine, with the build ,and I see no problem with it.
+
+	- HUD
+		- Hearts
+		- Effects
+		- Score and Gold counter
+		- Progress meter
+I really want to write a lot about the HUD design, I do but I honnestly really like it; it's compact, it's tidey, it looks good. I have no complaints at all. If I did write an individual thing review for each section on the HUD, it would consist of them same things; so I will break it up in this small little paragraph.
+
+
+	- Items
+		- Coin and treasure money value
+ I like the 1 gold you get (aka this is fine).
+		- Healing
+Healing is reasonable, it is not too nice, but it also still adds some difficutly into the game (and I like difficutly).
+		- Horse speed effect
+Maybe a tad bit too fast, try playing around with different movement speeds because I felt like I completed the level super quick with it.
+		- Rum speed and healing effect
+Rum, is the same problem as the horse: maybe a bit too fast. Healing effect seems fine though, but I cannot really tell since I only have 1 heart.
+	- Obstacles
+		- Knockout time when hitting them
+I like it. It does not kill you, but it allows for the wave to catch up to you and make an intesne moment; and on hard, it sounds super fun to try and dodge these obsticals.
+	- Level format
+		- Platform arrangement
+I think the platforms are fine, I like the final level of this build and how creative it is. Only problem right now, is how you can just walk along the floor.
+		- Item positions
+Feels fine, they are not to a point of annoying, but they can also get in your way when platforming (that is good).
+		- Length of levels
+Too short. I completed the first level in 9.37 seconds by just walking along the floor; I feel this is way too short. 
+	- Gameplay
+		- Wave speed
+I feel like it's too slow. All I have to do is go right and it is not even a threat.
+		- Enemy combat
+	- Score system
+First of all. I do not like how you gain 10 points by just walking. Just walking across the level's while get you int othe hundred's. Walking should go up by less than 10; maybe even 1 because I felt it was abnormaly high for the first level. Maybe at higher levels, or higher difficulty you get more points when walking, but geting 10 on the first level, on easy; is not good.
+		- Points gained from items (Coin, Treasure, Horses, Rum)
+Too much. By just jumping around at the end of the level I had around 1500+ points. For just the first level that is really not good. Decrease the points you get by these. Make it feel hard, to get a high-score.
+		- Points gained/lost from enemies
+Decrease the points gained when you defeat an enemy, I went from 290 to 790. Just no, that is way too much.
+		- Points lost from hitting obstacles
+I like it. It makes it feel like you just lost a lot of points; if it was me, I would increase it, but that's just because I am mean.
+		- Points gained from advancing the level
+I did not notice any change in score, when I advanced a level.
+	- Upgrade shop
+		- Upgrade costs
+I think the upgrade costs is reasonable, and I like the feature of how it gets more expensive the high level. 
+		- Upgrade effects in game
+I think they sound like interesting effects, but I have no way to try them all out because you are unable to collect enough gold, since you do not have enough levels. So I think you should have a way to increase your gold in the game (this could be by pressing a button or something, but this is only for test purposes). Also later in development, you could think of adding more to the shop to spend gold on, such as: different character sprites
+- Menu features
+	- Menu
+		- Mouse navigation
+No problems with the mouse navigation I like it.
+		- Keyboard navigation (Arrow keys to navigate and Enter to select)
+Keyboard navigation is fine, I cannot find any problems with them. Basic, but needed feature.
+	- Settings
+		- Key binding procedure
+I like the ability to change your controls, because I use w,a,s,d. Also a thing to note, is that you can bind multiple keys for the 3 options, for example: I binded w, to left, right, and jump, but the character only moves (so in short, make it so only one key can be binded to something at a time).
+		- Drop down menu
+I have always been a fan of drop-down menu's, so I really like your decision on this. 
+
+NOTE: Make me be able to move the window, in windowed mode because it goes onto another monitor when I use the settings and it is really annoying that I cannot move it onto just one.
+
+
+Here is a list of colour keys for each item and obstacle in the game:
+- Yellow = Coin
+- Cyan = Treasure
+- Green = Bandages
+- Barrel sprite = Barrel
+- Black = Anchor
+- Brown = Horses
+- Orange = Rum
+- Red = Med chest
+- Reddish Brown = Crate
+- Magenta = Enemy (Enter combat mode when colliding into it)
+- Big Blue Thing = Tsunami/Wave

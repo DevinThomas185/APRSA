@@ -1,0 +1,11 @@
+Is the HUD organised nicely? Should it be smaller?
+It looks large, maybe scale it down 10-20% Organisation is clear and neat.
+
+What pirate themed enemies should you encounter?
+Parrots? Cannon balls?
+
+What player attributes should be upgradeable?
+Speed/Gravity(Jump)/max health
+
+What is your preferred menu input device: Keyboard or mouse?
+Keyboard, as the game is played with entire keyboard input.

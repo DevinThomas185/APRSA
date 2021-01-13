@@ -1,0 +1,53 @@
+Colour key:
+- Yellow = Coin
+- Cyan = Treasure
+- Green = Bandages
+- Grey = Barrel
+- Black = Anchor
+- Brown = Horses
+- Orange = Rum
+- Red = Med chest
+
+Is the HUD organised enough so that it isn't an eyesore?
+The HUD is fine, I don't see any neeed to change it beucase it's fine for now (when you start implimenting different features you may find a need to change it, or just want to).
+
+Which of the following information would you also need in game?
+- Player progress bar
+- Active effects list
+- Speed
+- Player attributes
+
+I believe that implimenting all of these onto the HUD somewhere could prove useful, because you are filling it up and leaving no blanks; also it helps the player gain a better understanding on how well they are currently doing within the game.
+
+Here is a list of all the items I currently plan to have in the game:
+- Coins (+1 money, 10-40 points)
+- Treasure Chest (+20 money, 50-100 points)
+- Bandages (+1 heart, 0 points)
+- Medicine Chest (Max health, 0 points)
+- Bottle o Rum (+3 health, -3 max speed for 10s, 100-200 points)
+- Horses (+5 max speed for 20s, 100-200 points)
+- Cannon (To be implemented)
+- Ship (To be implemented)
+Is this enough, or would you suggest more items to be added?
+Are each item rewards adequate?
+
+I think that for now the items are fine, but you may want to change the amount of coins you gain depending on how much items will cost within the shop.
+
+Here is a list of all the effects from items and obstacles:
+- Max speed up
+- Max speed down
+- Knock out
+Would you suggest any more effects?
+
+Maybe you could add some wacky/fun effects to make the game a bit more entertaing or challenging, for example add: An effect that increases/decrease your current gravity setting, or invert the controls, or even do something weird like changing the colours or art style (or you could make a seize mode where it has multi-colours flashing).
+
+I dunno, just thinking of weird ideas you could impliment.
+
+Here is a list of all the obstacles I currently plan to implement:
+- Anchor (-1 heart, 6s knock out)
+- Barrel (-1 heart, 3s knock out)
+- Crate (-1 heart, 3s knock out)
+Any more obstacles you would like added?
+And are the penalties adequate?
+
+I cannot currently think of any obstacles to add, but if I think of any soon I will tell you. And I think that at least one of the obstacles should do -2 health because if every object did -1 it would not really be challenging. Also you should have at least one object that insta-kills people to increase the difficulty.
